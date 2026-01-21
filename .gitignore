@@ -1,0 +1,18 @@
+# Python and IDE ignore patterns
+
+# Python cache files
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Virtual environment folders
+venv/
+
+# Environment variable files
+.env
+
+# Project specific folders
+uploads/
+processed_images/
