@@ -1,8 +1,6 @@
-[global]
-  theme = "dark"
-  maxCookies = 10
-
-[server]
-  enableCORS = false
-  port = 8501
-  headless = true
+[theme]
+base="dark"
+primaryColor="#F39C12"
+secondaryColor="#E74C3C"
+[client]
+showSidebar=true
